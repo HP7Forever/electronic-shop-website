@@ -3,8 +3,8 @@ we have created a electronic shop website with the help of html, css, js and fir
 
 
 **CREATED BY **
-**Rohit Thakur**
-**Sagar Kumbhalkar**
-**Shreyas Dhan**
-**Vijaya Guru**
-**Sanskar Agarwal**
+1. **Rohit Thakur**
+2. **Sagar Kumbhalkar**
+3. **Shreyas Dhan**
+4. **Vijaya Guru**
+5. **Sanskar Agarwal**
