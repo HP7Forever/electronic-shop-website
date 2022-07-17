@@ -18,17 +18,22 @@ When user goes to the products page the user will see the different offers which
 Once the user reach to the Thank you page the User then can  go back again to the products page to buy other products.  Then comes  the contact us Page where  we have used the firebase realtime databse to store  the users message or any query related to our site .
 
 
-![alt text](![Screenshot (568)](https://user-images.githubusercontent.com/87347636/179416678-82ffb467-2a4e-4c69-8618-0696327671a9.png)
-)
+![Screenshot (568)](https://user-images.githubusercontent.com/87347636/179416678-82ffb467-2a4e-4c69-8618-0696327671a9.png)
 
-![alt text](![Screenshot (569)](https://user-images.githubusercontent.com/87347636/179416708-c8342b35-03ad-440c-a006-d2300eb123a3.png)
-)
 
-![alt text](![Screenshot (570)](https://user-images.githubusercontent.com/87347636/179416742-af363ac6-f074-4d45-b518-f86812710498.png)
-)
+![Screenshot (569)](https://user-images.githubusercontent.com/87347636/179416708-c8342b35-03ad-440c-a006-d2300eb123a3.png)
 
-![alt text](![Screenshot (571)](https://user-images.githubusercontent.com/87347636/179416760-ab49ddee-27bb-4447-b0ad-37dc38ce3126.png)
-)
 
-![alt text](![Screenshot (572)](https://user-images.githubusercontent.com/87347636/179416799-30a747f7-debb-48ac-9b78-be2432bb89b3.png)
-)
+![Screenshot (570)](https://user-images.githubusercontent.com/87347636/179416742-af363ac6-f074-4d45-b518-f86812710498.png)
+
+
+![Screenshot (571)](https://user-images.githubusercontent.com/87347636/179416760-ab49ddee-27bb-4447-b0ad-37dc38ce3126.png)
+
+
+![Screenshot (572)](https://user-images.githubusercontent.com/87347636/179416799-30a747f7-debb-48ac-9b78-be2432bb89b3.png)
+
+
+![Screenshot (573)](https://user-images.githubusercontent.com/87347636/179416836-5f29e494-a3d0-408a-9217-de81c8da1652.png)
+
+
+![Screenshot (574)](https://user-images.githubusercontent.com/87347636/179416899-f2080c1f-afab-4d12-be1c-2ec90e22017a.png)
