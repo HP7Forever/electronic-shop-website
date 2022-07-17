@@ -9,6 +9,13 @@ we have created a electronic shop website with the help of html, css, js and fir
 4. **Vijaya Guru**
 5. **Sanskar Agarwal**
 
+**Here is a short video of our electronic shop**
+
+
+
+https://user-images.githubusercontent.com/87347636/179421375-c86c4ec6-b806-4c2c-9dce-6bdf3376c389.mp4
+
+
 
 We are the members of Group 15 and we have developed two projects first is web based and the second is an android app to explore more and more features of Firebase.
 Firstly I will be describing about the web application which is named as “ElecShop” which is an E-commerce website  which mainly deals in selling Laptops,Desktops and other accessories related to that such as CPU cabinet, keyboard, mouse charger etc. 
